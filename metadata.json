@@ -1,0 +1,7 @@
+{
+  "name": "Equilibrio IA",
+  "description": "Your personal assistant for productivity and wellness balance, powered by Gemini 2.5 and 3.0.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
